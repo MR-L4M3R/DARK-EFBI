@@ -13,16 +13,16 @@ yellow='\033[33;1m'
 clear
 python2 password.py
 clear
-toilet -f pagga "MRL4M3R"| lolcat
+toilet -f pagga "Fash Gaming"| lolcat
 sleep 1
 clear
-toilet -f pagga "MRL4M3R"| lolcat
+toilet -f pagga "Fash Gaming"| lolcat
 clear
 termux-open-url https://youtube.com/channel/UCmuNYQZM9crdJ59kUP9khIg?sub_confirmation=1
 sleep 5
 toilet -f pagga "Hacking Channel"|lolcat
 clear
-termux-open-url ?sub_confirmation=1
+termux-open-url https://youtube.com/channel/UCmuNYQZM9crdJ59kUP9khIg?sub_confirmation=1
 sleep 5
 neofetch
 echo "╔══════════════════════════════════════╗"
@@ -85,7 +85,7 @@ echo $cy "
 ┠
 ┠──[14] BHV26
 ┠
-┠──[15] MR.L4M3R-Dark
+┠──[15] MR.Rendy-Dark
 ┠
 ┗────[99] exit ✘"
 echo '\033[35;1m'
@@ -221,7 +221,7 @@ if
 if [ $bro = 15 ] || [ $bro = 15 ]
 then
 clear
-git clone https://github.com/MR-L4M3R/token3
+git clone https://github.com/cyber2611/token3
 cd token3
 ls
 python2 token3
