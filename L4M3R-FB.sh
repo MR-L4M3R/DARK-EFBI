@@ -13,10 +13,10 @@ yellow='\033[33;1m'
 clear
 python2 password.py
 clear
-toilet -f pagga "Fash Gaming"| lolcat
+toilet -f pagga "LAMER Xploit"| lolcat
 sleep 1
 clear
-toilet -f pagga "Fash Gaming"| lolcat
+toilet -f pagga "LAMER Xploit"| lolcat
 clear
 termux-open-url https://youtube.com/channel/UCmuNYQZM9crdJ59kUP9khIg?sub_confirmation=1
 sleep 5
@@ -37,7 +37,7 @@ me='\033[31;1m' #merah
 pu='\033[37;1m' #putih
 ku='\033[33;1m' #kuning
 or='\033[1;38;5;208m' #Orange
-toilet -f pagga "Fash Gaming"| lolcat
+toilet -f pagga "LAMER Xploit"| lolcat
 echo $purple "
 █████████
 \033[1;93m█▄█████▄█      \033[1;91m●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●
